@@ -67,3 +67,11 @@ intro
 .intro h2 span {
     background-color: var(--blue);
 }
+/********************
+counter
+********************/
+.counter i {
+    color: var(--blue);
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
